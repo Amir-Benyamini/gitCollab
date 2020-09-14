@@ -1,1 +1,1 @@
-const git = 'github'
+const conflict = true
